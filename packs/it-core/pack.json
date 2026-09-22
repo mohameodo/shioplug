@@ -1,0 +1,27 @@
+{
+  "id": "it-core",
+  "name": "Italiano",
+  "kind": "language",
+  "version": "1.0.0",
+  "locale": "it",
+  "strings": {
+    "home": "Home",
+    "movies": "Film",
+    "tv": "Serie",
+    "anime": "Anime",
+    "search": "Cerca",
+    "settings": "Impostazioni",
+    "profile": "Profilo",
+    "theme": "Tema",
+    "language": "Lingua",
+    "shioplug": "Shioplug",
+    "shioplugInstall": "Installa",
+    "shioplugUpdate": "Aggiorna",
+    "shioplugInstalled": "Installato",
+    "shioplugRemove": "Rimuovi",
+    "myAlgorithm": "Il mio algoritmo",
+    "play": "Riproduci",
+    "watchlist": "La mia lista",
+    "history": "Cronologia"
+  }
+}

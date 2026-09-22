@@ -1,0 +1,27 @@
+{
+  "id": "pt-core",
+  "name": "Português",
+  "kind": "language",
+  "version": "1.0.0",
+  "locale": "pt",
+  "strings": {
+    "home": "Início",
+    "movies": "Filmes",
+    "tv": "Séries",
+    "anime": "Anime",
+    "search": "Pesquisar",
+    "settings": "Definições",
+    "profile": "Perfil",
+    "theme": "Tema",
+    "language": "Idioma",
+    "shioplug": "Shioplug",
+    "shioplugInstall": "Instalar",
+    "shioplugUpdate": "Atualizar",
+    "shioplugInstalled": "Instalado",
+    "shioplugRemove": "Remover",
+    "myAlgorithm": "Meu algoritmo",
+    "play": "Reproduzir",
+    "watchlist": "A minha lista",
+    "history": "Histórico"
+  }
+}

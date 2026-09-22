@@ -1,0 +1,8 @@
+{
+  "id": "accent-coral",
+  "name": "Coral Accent",
+  "kind": "accent",
+  "version": "1.0.0",
+  "accent": "#fb7185",
+  "onAccent": "#2a0a12"
+}

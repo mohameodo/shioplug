@@ -1,0 +1,19 @@
+{
+  "id": "lime-pulse",
+  "name": "Lime Pulse",
+  "kind": "theme",
+  "version": "1.0.0",
+  "theme": "lime-pulse",
+  "colors": {
+    "light": false,
+    "ink": "#eefce8",
+    "mute": "#a8c99a",
+    "bar": "#10180e",
+    "chip": "#1c2a18",
+    "page": "#070c06",
+    "accent": "#a3e635",
+    "onAccent": "#0c1408",
+    "elev": "#10180e",
+    "dim": "rgba(7,12,6,0.62)"
+  }
+}

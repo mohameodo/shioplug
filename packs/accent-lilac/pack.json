@@ -1,0 +1,8 @@
+{
+  "id": "accent-lilac",
+  "name": "Lilac Accent",
+  "kind": "accent",
+  "version": "1.0.0",
+  "accent": "#c4b5fd",
+  "onAccent": "#1a1030"
+}

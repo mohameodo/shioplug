@@ -1,0 +1,27 @@
+{
+  "id": "hi-core",
+  "name": "हिन्दी",
+  "kind": "language",
+  "version": "1.0.0",
+  "locale": "hi",
+  "strings": {
+    "home": "होम",
+    "movies": "फ़िल्में",
+    "tv": "शो",
+    "anime": "एनिमे",
+    "search": "खोजें",
+    "settings": "सेटिंग्स",
+    "profile": "प्रोफ़ाइल",
+    "theme": "थीम",
+    "language": "भाषा",
+    "shioplug": "Shioplug",
+    "shioplugInstall": "इंस्टॉल",
+    "shioplugUpdate": "अपडेट",
+    "shioplugInstalled": "इंस्टॉल हुआ",
+    "shioplugRemove": "हटाएँ",
+    "myAlgorithm": "मेरा एल्गोरिदम",
+    "play": "चलाएँ",
+    "watchlist": "मेरी सूची",
+    "history": "इतिहास"
+  }
+}

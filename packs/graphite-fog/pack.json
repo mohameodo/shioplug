@@ -1,0 +1,19 @@
+{
+  "id": "graphite-fog",
+  "name": "Graphite Fog",
+  "kind": "theme",
+  "version": "1.0.0",
+  "theme": "graphite-fog",
+  "colors": {
+    "light": false,
+    "ink": "#e8eaed",
+    "mute": "#9aa0a6",
+    "bar": "#121417",
+    "chip": "#1e2228",
+    "page": "#0a0b0d",
+    "accent": "#8ab4f8",
+    "onAccent": "#0a0b0d",
+    "elev": "#121417",
+    "dim": "rgba(10,11,13,0.62)"
+  }
+}

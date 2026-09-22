@@ -1,0 +1,13 @@
+{
+  "id": "dock-browse",
+  "name": "Browse Dock",
+  "kind": "dock",
+  "version": "1.0.0",
+  "order": [
+    "home",
+    "movies",
+    "tv",
+    "search",
+    "profile"
+  ]
+}

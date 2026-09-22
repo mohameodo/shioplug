@@ -4,11 +4,46 @@
   "updated": "2026-09-22",
   "packs": [
     {
+      "id": "accent-amber",
+      "name": "Amber Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-amber/pack.json"
+    },
+    {
+      "id": "accent-coral",
+      "name": "Coral Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-coral/pack.json"
+    },
+    {
       "id": "accent-gold",
       "name": "Gold Accent",
       "kind": "accent",
       "version": "1.0.0",
       "path": "packs/accent-gold/pack.json"
+    },
+    {
+      "id": "accent-lilac",
+      "name": "Lilac Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-lilac/pack.json"
+    },
+    {
+      "id": "accent-mint",
+      "name": "Mint Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-mint/pack.json"
+    },
+    {
+      "id": "ar-core",
+      "name": "\u0627\u0644\u0639\u0631\u0628\u064a\u0629",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/ar-core/pack.json"
     },
     {
       "id": "carbon-blue",
@@ -18,11 +53,39 @@
       "path": "packs/carbon-blue/pack.json"
     },
     {
+      "id": "cherry-night",
+      "name": "Cherry Night",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/cherry-night/pack.json"
+    },
+    {
       "id": "de-core",
       "name": "Deutsch",
       "kind": "language",
       "version": "1.0.0",
       "path": "packs/de-core/pack.json"
+    },
+    {
+      "id": "dock-browse",
+      "name": "Browse Dock",
+      "kind": "dock",
+      "version": "1.0.0",
+      "path": "packs/dock-browse/pack.json"
+    },
+    {
+      "id": "dock-profile-focus",
+      "name": "Profile-focus Dock",
+      "kind": "dock",
+      "version": "1.0.0",
+      "path": "packs/dock-profile-focus/pack.json"
+    },
+    {
+      "id": "dock-search-first",
+      "name": "Search-first Dock",
+      "kind": "dock",
+      "version": "1.0.0",
+      "path": "packs/dock-search-first/pack.json"
     },
     {
       "id": "es-core",
@@ -39,11 +102,81 @@
       "path": "packs/fr-core/pack.json"
     },
     {
+      "id": "graphite-fog",
+      "name": "Graphite Fog",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/graphite-fog/pack.json"
+    },
+    {
+      "id": "hi-core",
+      "name": "\u0939\u093f\u0928\u094d\u0926\u0940",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/hi-core/pack.json"
+    },
+    {
+      "id": "icons-ember",
+      "name": "Ember Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-ember/pack.json"
+    },
+    {
+      "id": "icons-mono",
+      "name": "Mono Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-mono/pack.json"
+    },
+    {
+      "id": "icons-moss",
+      "name": "Moss Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-moss/pack.json"
+    },
+    {
+      "id": "icons-ocean",
+      "name": "Ocean Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-ocean/pack.json"
+    },
+    {
       "id": "ink-violet",
       "name": "Ink Violet",
       "kind": "theme",
       "version": "1.0.0",
       "path": "packs/ink-violet/pack.json"
+    },
+    {
+      "id": "it-core",
+      "name": "Italiano",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/it-core/pack.json"
+    },
+    {
+      "id": "ivory-studio",
+      "name": "Ivory Studio",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/ivory-studio/pack.json"
+    },
+    {
+      "id": "lime-pulse",
+      "name": "Lime Pulse",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/lime-pulse/pack.json"
+    },
+    {
+      "id": "pt-core",
+      "name": "Portugu\u00eas",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/pt-core/pack.json"
     },
     {
       "id": "rose-ink",

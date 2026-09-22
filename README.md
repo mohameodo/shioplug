@@ -1,34 +1,31 @@
 # shioplug
 
-Public packs for Shiopa. Themes, accents, and language packs only.
+Public packs for Shiopa. Themes, accents, languages, icon libraries, and dock presets.
+
+## Allowed
+
+- Themes (full palettes)
+- Accents
+- Language packs
+- Icon libraries (built-in icon theme styles)
+- Dock order presets
 
 ## Not allowed
 
-Stream sources, scrapers, extractors, or any video URL plugins. Shiopa will not load them.
+Stream sources, scrapers, extractors, or video URL plugins.
 
 ## Catalog
-
-`catalog.json` lists every pack with `id`, `name`, `kind`, `version`, and `path`.
-
-Raw catalog URL:
 
 `https://raw.githubusercontent.com/mohameodo/shioplug/main/catalog.json`
 
 ## Pack kinds
 
-- `theme` — full color palette
-- `accent` — accent color
-- `language` — locale strings
+| kind | Purpose |
+| --- | --- |
+| theme | Color palette |
+| accent | Accent color |
+| language | Locale strings |
+| icon | Dock/icon style library |
+| dock | Tab order preset |
 
-## Ready now
-
-| Pack | Kind | Version |
-| --- | --- | --- |
-| Ink Violet | theme | 1.0.0 |
-| Sand Dawn | theme | 1.0.0 |
-| Carbon Blue | theme | 1.1.0 |
-| Rose Ink | theme | 1.0.0 |
-| Gold Accent | accent | 1.0.0 |
-| Français | language | 1.0.0 |
-| Español | language | 1.0.0 |
-| Deutsch | language | 1.0.0 |
+Install / update / remove from **Shioplug** in the app.

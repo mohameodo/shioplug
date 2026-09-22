@@ -1,0 +1,13 @@
+{
+  "id": "dock-profile-focus",
+  "name": "Profile-focus Dock",
+  "kind": "dock",
+  "version": "1.0.0",
+  "order": [
+    "home",
+    "profile",
+    "search",
+    "movies",
+    "tv"
+  ]
+}
