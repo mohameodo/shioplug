@@ -53,6 +53,20 @@
       "path": "packs/carbon-blue/pack.json"
     },
     {
+      "id": "card-sharp",
+      "name": "Sharp Corners",
+      "kind": "card",
+      "version": "1.0.0",
+      "path": "packs/card-sharp/pack.json"
+    },
+    {
+      "id": "card-soft",
+      "name": "Soft Rounding",
+      "kind": "card",
+      "version": "1.0.0",
+      "path": "packs/card-soft/pack.json"
+    },
+    {
       "id": "cherry-night",
       "name": "Cherry Night",
       "kind": "theme",
@@ -165,11 +179,25 @@
       "path": "packs/ivory-studio/pack.json"
     },
     {
+      "id": "layout-focus",
+      "name": "Focus Layout",
+      "kind": "layout",
+      "version": "1.0.0",
+      "path": "packs/layout-focus/pack.json"
+    },
+    {
       "id": "lime-pulse",
       "name": "Lime Pulse",
       "kind": "theme",
       "version": "1.0.0",
       "path": "packs/lime-pulse/pack.json"
+    },
+    {
+      "id": "look-pill",
+      "name": "Pill Dock Look",
+      "kind": "look",
+      "version": "1.0.0",
+      "path": "packs/look-pill/pack.json"
     },
     {
       "id": "pt-core",
@@ -191,6 +219,27 @@
       "kind": "theme",
       "version": "1.0.0",
       "path": "packs/sand-dawn/pack.json"
+    },
+    {
+      "id": "source-template",
+      "name": "HTTPS Stream Template",
+      "kind": "scraper",
+      "version": "1.0.0",
+      "path": "packs/source-template/pack.json"
+    },
+    {
+      "id": "source-vadapav",
+      "name": "Vadapav Streams",
+      "kind": "source",
+      "version": "1.0.0",
+      "path": "packs/source-vadapav/pack.json"
+    },
+    {
+      "id": "subtitle-cinema",
+      "name": "Cinema Subtitles",
+      "kind": "subtitle",
+      "version": "1.0.0",
+      "path": "packs/subtitle-cinema/pack.json"
     }
   ]
 }

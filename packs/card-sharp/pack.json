@@ -1,0 +1,14 @@
+{
+  "id": "card-sharp",
+  "name": "Sharp Corners",
+  "kind": "card",
+  "version": "1.0.0",
+  "look": {
+    "posterRadius": 4,
+    "cardRadius": 6,
+    "dockRadius": 18,
+    "titleSize": 13,
+    "gap": 10
+  },
+  "summary": "Tighter poster corners"
+}

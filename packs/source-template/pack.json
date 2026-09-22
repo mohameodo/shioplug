@@ -1,0 +1,10 @@
+{
+  "id": "source-template",
+  "name": "HTTPS Stream Template",
+  "kind": "scraper",
+  "version": "1.0.0",
+  "serverName": "Custom HTTPS",
+  "streamTemplate": "https://example.invalid/stream?tmdb={tmdb}&type={type}&s={s}&e={e}",
+  "response": "auto",
+  "summary": "Example HTTPS JSON template pack (replace URL in a fork)"
+}

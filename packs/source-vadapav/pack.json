@@ -1,0 +1,12 @@
+{
+  "id": "source-vadapav",
+  "name": "Vadapav Streams",
+  "kind": "source",
+  "version": "1.0.0",
+  "serverName": "Vadapav",
+  "addonBase": "https://stremio.vadapav.mov",
+  "mediaTypes": ["movie", "series", "tv"],
+  "idMode": "both",
+  "response": "stremio",
+  "summary": "Stremio-compatible stream addon"
+}
