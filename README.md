@@ -1,39 +1,34 @@
 # shioplug
 
-Public theme packs for Shiopa.
-
-## Allowed
-
-- Theme color packs
-- Accent / palette packs
-- Icon set packs
-- Language / locale packs
+Public packs for Shiopa. Themes, accents, and language packs only.
 
 ## Not allowed
 
-- Custom stream sources
-- Stream / scraper / extractor plugins
-- Anything that fetches or plays third-party video URLs
+Stream sources, scrapers, extractors, or any video URL plugins. Shiopa will not load them.
 
-Shiopa will not load stream or source plugins from this repo or anywhere else.
+## Catalog
 
-## Pack format
+`catalog.json` lists every pack with `id`, `name`, `kind`, `version`, and `path`.
 
-Each pack is a folder under `packs/`:
+Raw catalog URL:
 
-```
-packs/
-  night-extra/
-    pack.toon
-    README.md
-```
+`https://raw.githubusercontent.com/mohameodo/shioplug/main/catalog.json`
 
-`pack.toon` example:
+## Pack kinds
 
-```
-id: night-extra
-name: Night Extra
-kind: theme
-version: 1.0.0
-theme: night
-accent: "#7C9CFF"
+- `theme` — full color palette
+- `accent` — accent color
+- `language` — locale strings
+
+## Ready now
+
+| Pack | Kind | Version |
+| --- | --- | --- |
+| Ink Violet | theme | 1.0.0 |
+| Sand Dawn | theme | 1.0.0 |
+| Carbon Blue | theme | 1.1.0 |
+| Rose Ink | theme | 1.0.0 |
+| Gold Accent | accent | 1.0.0 |
+| Français | language | 1.0.0 |
+| Español | language | 1.0.0 |
+| Deutsch | language | 1.0.0 |

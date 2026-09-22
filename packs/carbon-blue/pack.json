@@ -1,0 +1,19 @@
+{
+  "id": "carbon-blue",
+  "name": "Carbon Blue",
+  "kind": "theme",
+  "version": "1.1.0",
+  "theme": "carbon-blue",
+  "colors": {
+    "light": false,
+    "ink": "#e8eef5",
+    "mute": "#9aabbc",
+    "bar": "#10161d",
+    "chip": "#1c2630",
+    "page": "#070b10",
+    "accent": "#4f8cff",
+    "onAccent": "#061018",
+    "elev": "#10161d",
+    "dim": "rgba(7,11,16,0.62)"
+  }
+}

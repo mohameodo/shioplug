@@ -1,0 +1,63 @@
+{
+  "name": "shioplug",
+  "repo": "https://github.com/mohameodo/shioplug",
+  "updated": "2026-09-22",
+  "packs": [
+    {
+      "id": "accent-gold",
+      "name": "Gold Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-gold/pack.json"
+    },
+    {
+      "id": "carbon-blue",
+      "name": "Carbon Blue",
+      "kind": "theme",
+      "version": "1.1.0",
+      "path": "packs/carbon-blue/pack.json"
+    },
+    {
+      "id": "de-core",
+      "name": "Deutsch",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/de-core/pack.json"
+    },
+    {
+      "id": "es-core",
+      "name": "Espa\u00f1ol",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/es-core/pack.json"
+    },
+    {
+      "id": "fr-core",
+      "name": "Fran\u00e7ais",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/fr-core/pack.json"
+    },
+    {
+      "id": "ink-violet",
+      "name": "Ink Violet",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/ink-violet/pack.json"
+    },
+    {
+      "id": "rose-ink",
+      "name": "Rose Ink",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/rose-ink/pack.json"
+    },
+    {
+      "id": "sand-dawn",
+      "name": "Sand Dawn",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/sand-dawn/pack.json"
+    }
+  ]
+}
