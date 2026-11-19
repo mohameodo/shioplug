@@ -1,0 +1,14 @@
+{
+  "id": "card-soft",
+  "name": "Soft Rounding",
+  "kind": "card",
+  "version": "1.0.0",
+  "look": {
+    "posterRadius": 22,
+    "cardRadius": 24,
+    "dockRadius": 36,
+    "titleSize": 14,
+    "gap": 14
+  },
+  "summary": "Rounder posters and dock"
+}

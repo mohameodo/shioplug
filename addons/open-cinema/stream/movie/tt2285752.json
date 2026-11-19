@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "url": "https://download.blender.org/demo/movies/ToS/tears_of_steel_720p.mov",
+      "quality": "720p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "1280×534 · © Blender Foundation · Creative Commons Attribution",
+      "behaviorHints": {
+        "filename": "tears_of_steel_720p.mov"
+      }
+    },
+    {
+      "name": "Opal · Torrent",
+      "description": "Tears of Steel · WebTorrent sample · © Blender Foundation",
+      "infoHash": "209c8226b299b308beaf2b9cd3fb49212dbd13ec",
+      "fileIdx": 8
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "id": "icons-mono",
+  "name": "Mono Icon Library",
+  "kind": "icon",
+  "version": "1.0.0",
+  "iconTheme": "mono",
+  "summary": "Clean monochrome filled dock icons"
+}

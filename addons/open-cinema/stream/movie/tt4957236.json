@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "url": "https://webtorrent.io/torrents/Cosmos%20Laundromat/Cosmos%20Laundromat.mp4",
+      "quality": "1080p",
+      "audio": "English",
+      "name": "Opal · HTTPS",
+      "description": "1920×804 · © Blender Foundation · Creative Commons Attribution",
+      "behaviorHints": {
+        "filename": "Cosmos Laundromat.mp4"
+      }
+    },
+    {
+      "name": "Opal · Torrent",
+      "description": "Cosmos Laundromat · WebTorrent sample · © Blender Foundation",
+      "infoHash": "c9e15763f722f23e98a29decdfae341b98d53056",
+      "fileIdx": 4
+    }
+  ]
+}

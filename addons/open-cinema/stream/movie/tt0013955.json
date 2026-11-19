@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/cricket-on-the-hearth-1923/Cricket%20on%20the%20Hearth%20%281923%29.ia.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "720×480 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "Cricket on the Hearth (1923).ia.mp4"
+      }
+    }
+  ]
+}

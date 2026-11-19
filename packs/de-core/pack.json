@@ -1,0 +1,28 @@
+{
+  "id": "de-core",
+  "name": "Deutsch",
+  "kind": "language",
+  "version": "1.0.0",
+  "locale": "de",
+  "strings": {
+    "home": "Start",
+    "movies": "Filme",
+    "tv": "Serien",
+    "anime": "Anime",
+    "categories": "Kategorien",
+    "search": "Suche",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "theme": "Design",
+    "language": "Sprache",
+    "shioplug": "Shioplug",
+    "shioplugHint": "Themes und Sprachen von GitHub",
+    "shioplugInstall": "Installieren",
+    "shioplugUpdate": "Aktualisieren",
+    "shioplugInstalled": "Installiert",
+    "myAlgorithm": "Mein Algorithmus",
+    "play": "Abspielen",
+    "watchlist": "Merkliste",
+    "history": "Verlauf"
+  }
+}

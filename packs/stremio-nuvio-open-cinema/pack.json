@@ -1,0 +1,21 @@
+{
+  "id": "stremio-nuvio-open-cinema",
+  "name": "Opal",
+  "kind": "source",
+  "version": "1.1.0",
+  "summary": "Open and historical movies from the Opal catalog.",
+  "mediaTypes": [
+    "movie"
+  ],
+  "mediaHosts": [
+    "archive.org",
+    "download.blender.org",
+    "webtorrent.io"
+  ],
+  "addonBase": "https://raw.githubusercontent.com/mohameodo/shioplug/main/addons/open-cinema/manifest.json",
+  "idMode": "imdb",
+  "torrentWebSeeds": {
+    "c9e15763f722f23e98a29decdfae341b98d53056:4": "https://webtorrent.io/torrents/Cosmos%20Laundromat/Cosmos%20Laundromat.mp4",
+    "08ada5a7a6183aae1e09d831df6748d566095a10:5": "https://webtorrent.io/torrents/Sintel/Sintel.mp4"
+  }
+}

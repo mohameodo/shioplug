@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/the-great-train-robbery-1903-directed-by-edwin-s.-porter/The%20Great%20Train%20Robbery%20%281903%29%20Directed%20by%20Edwin%20S.%20Porter.mp4",
+      "quality": "360p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "640×360 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "The Great Train Robbery (1903) Directed by Edwin S. Porter.mp4"
+      }
+    }
+  ]
+}

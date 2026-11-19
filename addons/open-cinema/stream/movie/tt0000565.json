@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/the-night-before-christmas-1905-directed-by-edwin-s.-porter/The%20Night%20Before%20Christmas%20%281905%29%20Directed%20By%20Edwin%20S.%20Porter.mp4",
+      "quality": "360p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "524×400 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "The Night Before Christmas (1905) Directed By Edwin S. Porter.mp4"
+      }
+    }
+  ]
+}

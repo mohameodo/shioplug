@@ -1,0 +1,18 @@
+{
+  "id": "layout-film-night",
+  "name": "Film Night",
+  "kind": "layout",
+  "summary": "Action, thrillers, and acclaimed movies near the top.",
+  "layout": {
+    "shelves": [
+      "action",
+      "thriller",
+      "topMovies",
+      "scifi"
+    ],
+    "hideRanking": true,
+    "hideTrailers": true,
+    "dense": true
+  },
+  "version": "1.0.0"
+}

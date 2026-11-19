@@ -1,0 +1,15 @@
+{
+  "id": "subtitle-outlined",
+  "name": "Outlined Captions",
+  "kind": "subtitle",
+  "summary": "White text with a thick black outline.",
+  "subtitle": {
+    "size": "22px",
+    "color": "#FFFFFF",
+    "background": "transparent",
+    "weight": "700",
+    "bottom": "38px",
+    "border": "2px"
+  },
+  "version": "1.0.0"
+}

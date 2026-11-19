@@ -1,0 +1,27 @@
+{
+  "id": "ar-core",
+  "name": "العربية",
+  "kind": "language",
+  "version": "1.0.0",
+  "locale": "ar",
+  "strings": {
+    "home": "الرئيسية",
+    "movies": "أفلام",
+    "tv": "مسلسلات",
+    "anime": "أنمي",
+    "search": "بحث",
+    "settings": "الإعدادات",
+    "profile": "الملف",
+    "theme": "المظهر",
+    "language": "اللغة",
+    "shioplug": "Shioplug",
+    "shioplugInstall": "تثبيت",
+    "shioplugUpdate": "تحديث",
+    "shioplugInstalled": "مثبت",
+    "shioplugRemove": "إزالة",
+    "myAlgorithm": "خوارزميتي",
+    "play": "تشغيل",
+    "watchlist": "قائمتي",
+    "history": "السجل"
+  }
+}

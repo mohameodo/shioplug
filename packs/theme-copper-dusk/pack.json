@@ -1,0 +1,20 @@
+{
+  "id": "theme-copper-dusk",
+  "name": "Copper Dusk",
+  "kind": "theme",
+  "theme": "copper-dusk",
+  "summary": "Warm charcoal with copper controls.",
+  "colors": {
+    "light": false,
+    "ink": "#F7EBDE",
+    "mute": "#D2BBA8",
+    "bar": "#231A16",
+    "chip": "#392B24",
+    "page": "#17110E",
+    "accent": "#FFB88B",
+    "onAccent": "#26150D",
+    "elev": "#29201B",
+    "dim": "#000000"
+  },
+  "version": "1.0.0"
+}

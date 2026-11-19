@@ -1,0 +1,19 @@
+{
+  "id": "sand-dawn",
+  "name": "Sand Dawn",
+  "kind": "theme",
+  "version": "1.0.0",
+  "theme": "sand-dawn",
+  "colors": {
+    "light": true,
+    "ink": "#2a2118",
+    "mute": "#6b5a48",
+    "bar": "#f3ebe0",
+    "chip": "#e8dccb",
+    "page": "#faf6f0",
+    "accent": "#c47a3a",
+    "onAccent": "#ffffff",
+    "elev": "#f3ebe0",
+    "dim": "rgba(42,33,24,0.28)"
+  }
+}

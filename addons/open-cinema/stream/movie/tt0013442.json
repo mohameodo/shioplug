@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/NosferatuSilent/Nosferatu%20%28silent%29.ia.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "640×480 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "Nosferatu (silent).ia.mp4"
+      }
+    }
+  ]
+}

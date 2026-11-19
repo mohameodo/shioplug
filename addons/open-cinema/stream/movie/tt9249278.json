@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "1146×480 · © Blender Foundation · Creative Commons Attribution",
+      "behaviorHints": {
+        "filename": "Spring - Blender Open Movie - YouTube.mp4"
+      }
+    }
+  ]
+}

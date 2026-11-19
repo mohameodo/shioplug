@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4",
+      "quality": "1080p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "1920×1080 · © Blender Foundation · Creative Commons Attribution",
+      "behaviorHints": {
+        "filename": "Caminandes_ Llamigos-1080p.mp4"
+      }
+    }
+  ]
+}

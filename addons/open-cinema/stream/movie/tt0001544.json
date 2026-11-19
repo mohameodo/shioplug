@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/BillSpragueCollectionAChristmasCarolAsProducedBtThomasEdison/A%20CHRISTMAS%20CAROL%20%281910%29-silent-An%20Edison%20Film.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "640×480 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "A CHRISTMAS CAROL (1910)-silent-An Edison Film.mp4"
+      }
+    }
+  ]
+}

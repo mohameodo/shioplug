@@ -1,0 +1,13 @@
+{
+  "id": "layout-focus",
+  "name": "Focus Layout",
+  "kind": "layout",
+  "version": "1.0.0",
+  "layout": {
+    "hideRanking": true,
+    "hideTrailers": false,
+    "dense": true,
+    "shelves": []
+  },
+  "summary": "Hide ranking row, denser shelves"
+}

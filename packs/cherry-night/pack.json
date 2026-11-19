@@ -1,0 +1,19 @@
+{
+  "id": "cherry-night",
+  "name": "Cherry Night",
+  "kind": "theme",
+  "version": "1.0.0",
+  "theme": "cherry-night",
+  "colors": {
+    "light": false,
+    "ink": "#ffe8ec",
+    "mute": "#c999a4",
+    "bar": "#1a0e12",
+    "chip": "#2c161c",
+    "page": "#0c0608",
+    "accent": "#ff4d6d",
+    "onAccent": "#1a050a",
+    "elev": "#1a0e12",
+    "dim": "rgba(12,6,8,0.62)"
+  }
+}

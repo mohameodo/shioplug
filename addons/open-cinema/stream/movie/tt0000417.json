@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/a-trip-to-the-moon-le-voyage-dans-la-lune-1902/A%20Trip%20to%20the%20moon%20%28Le%20voyage%20dans%20la%20lune%29%20%281902%29.mp4",
+      "quality": "360p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "480×360 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "A Trip to the moon (Le voyage dans la lune) (1902).mp4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "theme-chistmand",
+  "name": "Christmas",
+  "kind": "theme",
+  "version": "1.1.0",
+  "theme": "chistmand",
+  "summary": "A dark Christmas theme with evergreen surfaces, warm ivory text, cranberry controls, and a framed Home hero.",
+  "colors": {
+    "light": false,
+    "ink": "#FFF5E4",
+    "mute": "#C3CDBF",
+    "bar": "#12231D",
+    "chip": "#203A31",
+    "page": "#101713",
+    "accent": "#F18093",
+    "onAccent": "#261317",
+    "elev": "#172720",
+    "dim": "#0C120F"
+  },
+  "shell": {
+    "hero": "framed"
+  },
+  "look": {
+    "posterRadius": 14,
+    "cardRadius": 20,
+    "titleSize": 15,
+    "dockRadius": 28,
+    "gap": 12
+  },
+  "layout": {
+    "shelves": ["family", "comedy", "animation", "romance", "latest"]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "icons-ember",
+  "name": "Ember Icon Library",
+  "kind": "icon",
+  "version": "1.0.0",
+  "iconTheme": "ember",
+  "summary": "Warm ember filled icons"
+}

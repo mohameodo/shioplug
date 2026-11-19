@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "url": "https://webtorrent.io/torrents/Sintel/Sintel.mp4",
+      "quality": "360p",
+      "audio": "English",
+      "name": "Opal · HTTPS",
+      "description": "1024×436 · © Blender Foundation · Creative Commons Attribution",
+      "behaviorHints": {
+        "filename": "Sintel.mp4"
+      }
+    },
+    {
+      "name": "Opal · Torrent",
+      "description": "Sintel · WebTorrent sample · © Blender Foundation",
+      "infoHash": "08ada5a7a6183aae1e09d831df6748d566095a10",
+      "fileIdx": 5
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/the_night_before_christmas_1913/The.Night.Before.Christmas.1913.DVDRIP.x264.AC3.KJNU.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "618×480 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "The.Night.Before.Christmas.1913.DVDRIP.x264.AC3.KJNU.mp4"
+      }
+    }
+  ]
+}

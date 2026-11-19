@@ -1,0 +1,13 @@
+{
+  "id": "dock-search-first",
+  "name": "Search-first Dock",
+  "kind": "dock",
+  "version": "1.0.0",
+  "order": [
+    "search",
+    "home",
+    "movies",
+    "tv",
+    "profile"
+  ]
+}

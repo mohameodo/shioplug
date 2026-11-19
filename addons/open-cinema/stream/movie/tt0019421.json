@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/SteamboatBillJr/Steamboat_Bill.Jr_512kb.mp4",
+      "quality": "240p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "320×240 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "Steamboat_Bill.Jr_512kb.mp4"
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "silent-film-archive",
+  "name": "Silent Film Archive",
+  "kind": "source",
+  "version": "1.0.0",
+  "summary": "Early cinema from the Internet Archive, including the silent print of Nosferatu.",
+  "mediaTypes": [
+    "movie"
+  ],
+  "mediaHosts": [
+    "archive.org"
+  ],
+  "titles": {
+    "movie:775": [
+      {
+        "url": "https://archive.org/download/a-trip-to-the-moon-le-voyage-dans-la-lune-1902/A%20Trip%20to%20the%20moon%20%28Le%20voyage%20dans%20la%20lune%29%20%281902%29.mp4",
+        "quality": "360p",
+        "audio": "original"
+      }
+    ],
+    "movie:5698": [
+      {
+        "url": "https://archive.org/download/the-great-train-robbery-1903-directed-by-edwin-s.-porter/The%20Great%20Train%20Robbery%20%281903%29%20Directed%20by%20Edwin%20S.%20Porter.mp4",
+        "quality": "360p",
+        "audio": "original"
+      }
+    ],
+    "movie:25768": [
+      {
+        "url": "https://archive.org/download/SteamboatBillJr/Steamboat_Bill.Jr_512kb.mp4",
+        "quality": "240p",
+        "audio": "original"
+      }
+    ],
+    "movie:47653": [
+      {
+        "url": "https://archive.org/download/CC_1917_06_17_TheImmigrant/CC_1917_06_17_TheImmigrant_512kb.mp4",
+        "quality": "240p",
+        "audio": "original"
+      }
+    ],
+    "movie:653": [
+      {
+        "url": "https://archive.org/download/NosferatuSilent/Nosferatu%20%28silent%29.ia.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ]
+  }
+}

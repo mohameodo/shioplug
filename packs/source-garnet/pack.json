@@ -1,0 +1,16 @@
+{
+  "id": "source-garnet",
+  "name": "Garnet",
+  "kind": "source",
+  "version": "1.0.0",
+  "summary": "Movie and series streams through your private connection.",
+  "mediaTypes": [
+    "movie",
+    "series"
+  ],
+  "mediaHosts": [
+    "torrentio.strem.fun"
+  ],
+  "addonBase": "https://torrentio.strem.fun/manifest.json",
+  "idMode": "imdb"
+}

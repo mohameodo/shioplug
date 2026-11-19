@@ -1,0 +1,8 @@
+{
+  "id": "accent-gold",
+  "name": "Gold Accent",
+  "kind": "accent",
+  "version": "1.0.0",
+  "accent": "#d4a017",
+  "onAccent": "#1a1406"
+}

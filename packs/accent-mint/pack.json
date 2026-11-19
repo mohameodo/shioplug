@@ -1,0 +1,8 @@
+{
+  "id": "accent-mint",
+  "name": "Mint Accent",
+  "kind": "accent",
+  "version": "1.0.0",
+  "accent": "#34d399",
+  "onAccent": "#062016"
+}

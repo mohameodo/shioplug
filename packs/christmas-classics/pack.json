@@ -1,0 +1,57 @@
+{
+  "id": "christmas-classics",
+  "name": "Christmas Classics",
+  "kind": "source",
+  "version": "1.0.0",
+  "summary": "Six early Christmas films from the Internet Archive.",
+  "mediaTypes": [
+    "movie"
+  ],
+  "mediaHosts": [
+    "archive.org"
+  ],
+  "titles": {
+    "movie:189595": [
+      {
+        "url": "https://archive.org/download/the-night-before-christmas-1905-directed-by-edwin-s.-porter/The%20Night%20Before%20Christmas%20%281905%29%20Directed%20By%20Edwin%20S.%20Porter.mp4",
+        "quality": "360p",
+        "audio": "original"
+      }
+    ],
+    "movie:159998": [
+      {
+        "url": "https://archive.org/download/a-trap-for-santa-claus-1909/A_Trap_for_Santa_Claus_%281909%29_.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ],
+    "movie:84270": [
+      {
+        "url": "https://archive.org/download/BillSpragueCollectionAChristmasCarolAsProducedBtThomasEdison/A%20CHRISTMAS%20CAROL%20%281910%29-silent-An%20Edison%20Film.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ],
+    "movie:85302": [
+      {
+        "url": "https://archive.org/download/the-adventure-of-the-wrong-santa-claus-1914-xvid/The%20Adventure%20of%20the%20Wrong%20Santa%20Claus%20%281914%29%20%7Btmdb-85302%7D%20-%20%5BDVD%5D%5BMP3%202.0%5D%5BXviD%5D.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ],
+    "movie:191909": [
+      {
+        "url": "https://archive.org/download/the_night_before_christmas_1913/The.Night.Before.Christmas.1913.DVDRIP.x264.AC3.KJNU.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ],
+    "movie:1523526": [
+      {
+        "url": "https://archive.org/download/cricket-on-the-hearth-1923/Cricket%20on%20the%20Hearth%20%281923%29.ia.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ]
+  }
+}

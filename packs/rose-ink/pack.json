@@ -1,0 +1,19 @@
+{
+  "id": "rose-ink",
+  "name": "Rose Ink",
+  "kind": "theme",
+  "version": "1.0.0",
+  "theme": "rose-ink",
+  "colors": {
+    "light": false,
+    "ink": "#fceef2",
+    "mute": "#d0a8b4",
+    "bar": "#1a1014",
+    "chip": "#2e1c24",
+    "page": "#0e080a",
+    "accent": "#e86a8a",
+    "onAccent": "#1a080e",
+    "elev": "#1a1014",
+    "dim": "rgba(14,8,10,0.62)"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ink-violet",
+  "name": "Ink Violet",
+  "kind": "theme",
+  "version": "1.0.0",
+  "theme": "ink-violet",
+  "colors": {
+    "light": false,
+    "ink": "#f3eefc",
+    "mute": "#b9a8d4",
+    "bar": "#16101f",
+    "chip": "#2a2038",
+    "page": "#0c0812",
+    "accent": "#9b7bff",
+    "onAccent": "#120a1c",
+    "elev": "#16101f",
+    "dim": "rgba(12,8,18,0.62)"
+  }
+}

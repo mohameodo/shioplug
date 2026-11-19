@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/the-adventure-of-the-wrong-santa-claus-1914-xvid/The%20Adventure%20of%20the%20Wrong%20Santa%20Claus%20%281914%29%20%7Btmdb-85302%7D%20-%20%5BDVD%5D%5BMP3%202.0%5D%5BXviD%5D.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "640×480 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "The Adventure of the Wrong Santa Claus (1914) {tmdb-85302} - [DVD][MP3 2.0][XviD].mp4"
+      }
+    }
+  ]
+}

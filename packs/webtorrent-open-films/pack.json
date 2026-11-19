@@ -1,0 +1,29 @@
+{
+  "id": "webtorrent-open-films",
+  "name": "Flint",
+  "kind": "source",
+  "version": "1.1.0",
+  "summary": "Official HTTPS web seeds for Sintel and Cosmos Laundromat. © Blender Foundation, CC BY.",
+  "mediaTypes": [
+    "movie"
+  ],
+  "mediaHosts": [
+    "webtorrent.io"
+  ],
+  "titles": {
+    "movie:358332": [
+      {
+        "url": "https://webtorrent.io/torrents/Cosmos%20Laundromat/Cosmos%20Laundromat.mp4",
+        "quality": "1080p",
+        "audio": "English"
+      }
+    ],
+    "movie:45745": [
+      {
+        "url": "https://webtorrent.io/torrents/Sintel/Sintel.mp4",
+        "quality": "360p",
+        "audio": "English"
+      }
+    ]
+  }
+}

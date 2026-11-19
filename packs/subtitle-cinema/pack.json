@@ -1,0 +1,14 @@
+{
+  "id": "subtitle-cinema",
+  "name": "Cinema Subtitles",
+  "kind": "subtitle",
+  "version": "1.0.0",
+  "subtitle": {
+    "size": "22px",
+    "color": "#facc15",
+    "background": "rgba(0, 0, 0, 0.65)",
+    "weight": "700",
+    "bottom": "64px"
+  },
+  "summary": "Large yellow cinema-style captions"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "theme-signal-blue",
+  "name": "Signal Blue",
+  "kind": "theme",
+  "theme": "signal-blue",
+  "summary": "Deep blue surfaces with icy accents.",
+  "colors": {
+    "light": false,
+    "ink": "#F0F5FF",
+    "mute": "#A8BCD7",
+    "bar": "#131D2D",
+    "chip": "#243757",
+    "page": "#0A111D",
+    "accent": "#9DC7FF",
+    "onAccent": "#0B1B30",
+    "elev": "#182538",
+    "dim": "#000000"
+  },
+  "version": "1.0.0"
+}

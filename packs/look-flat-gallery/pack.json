@@ -1,0 +1,14 @@
+{
+  "id": "look-flat-gallery",
+  "name": "Flat Gallery",
+  "kind": "look",
+  "summary": "Square corners and compact gaps.",
+  "look": {
+    "posterRadius": 0,
+    "cardRadius": 2,
+    "dockRadius": 16,
+    "gap": 6,
+    "titleSize": 14
+  },
+  "version": "1.0.0"
+}

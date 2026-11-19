@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/CC_1917_06_17_TheImmigrant/CC_1917_06_17_TheImmigrant_512kb.mp4",
+      "quality": "240p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "320×240 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "CC_1917_06_17_TheImmigrant_512kb.mp4"
+      }
+    }
+  ]
+}

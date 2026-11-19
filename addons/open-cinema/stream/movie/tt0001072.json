@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/a-trap-for-santa-claus-1909/A_Trap_for_Santa_Claus_%281909%29_.mp4",
+      "quality": "480p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "640×480 · Internet Archive · early cinema",
+      "behaviorHints": {
+        "filename": "A_Trap_for_Santa_Claus_(1909)_.mp4"
+      }
+    }
+  ]
+}

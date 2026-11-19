@@ -1,0 +1,14 @@
+{
+  "id": "look-pill",
+  "name": "Pill Dock Look",
+  "kind": "look",
+  "version": "1.0.0",
+  "look": {
+    "posterRadius": 16,
+    "cardRadius": 18,
+    "dockRadius": 40,
+    "titleSize": 14,
+    "gap": 12
+  },
+  "summary": "Extra-pill glass dock"
+}

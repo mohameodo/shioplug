@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "url": "https://archive.org/download/Glass_201703/Glass.mp4",
+      "quality": "1080p",
+      "audio": "original",
+      "name": "Opal · HTTPS",
+      "description": "1920×1080 · © Blender Foundation · Creative Commons Attribution",
+      "behaviorHints": {
+        "filename": "Glass.mp4"
+      }
+    }
+  ]
+}

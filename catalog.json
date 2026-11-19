@@ -1,0 +1,377 @@
+{
+  "name": "shioplug",
+  "repo": "https://github.com/mohameodo/shioplug",
+  "updated": "2026-11-19",
+  "packs": [
+    {
+      "id": "accent-amber",
+      "name": "Amber Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-amber/pack.json",
+      "sha256": "7fe64fd04bf73276c95e53af8572541f769498bb5353ff28845cbd2f36dc2d2d"
+    },
+    {
+      "id": "accent-coral",
+      "name": "Coral Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-coral/pack.json",
+      "sha256": "051af3cce3322acb682657da7903c92ba4ffb223dcec2907980abe91edd7528b"
+    },
+    {
+      "id": "accent-gold",
+      "name": "Gold Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-gold/pack.json",
+      "sha256": "0aeeb1b1259b40a71072c7db0f3562948b43dd3cd1f384601d464a3f1620deda"
+    },
+    {
+      "id": "accent-lilac",
+      "name": "Lilac Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-lilac/pack.json",
+      "sha256": "36562d601435cf470c4411b632b6e88c5cb1661bfa514d920a0ac74c89d57d2e"
+    },
+    {
+      "id": "accent-mint",
+      "name": "Mint Accent",
+      "kind": "accent",
+      "version": "1.0.0",
+      "path": "packs/accent-mint/pack.json",
+      "sha256": "ed99598481987c2ea3109758e81ec3b00da3f570ee06edd139d4fa8848c2fcc2"
+    },
+    {
+      "id": "card-sharp",
+      "name": "Sharp Corners",
+      "kind": "card",
+      "version": "1.0.0",
+      "path": "packs/card-sharp/pack.json",
+      "sha256": "b50f54dde66a0d0d3dbbec71e0389073ecfd35673d3b00af38e183770ba1753e"
+    },
+    {
+      "id": "card-soft",
+      "name": "Soft Rounding",
+      "kind": "card",
+      "version": "1.0.0",
+      "path": "packs/card-soft/pack.json",
+      "sha256": "b7f086a56d9a347703987e68cf8f6b011fffcd47b243e638647c7417ac5e8402"
+    },
+    {
+      "id": "dock-browse",
+      "name": "Browse Dock",
+      "kind": "dock",
+      "version": "1.0.0",
+      "path": "packs/dock-browse/pack.json",
+      "sha256": "17a9a460cae0bac3b296561fda7c32fa6253be1e60783a9eb2eb5984e606dbbe"
+    },
+    {
+      "id": "dock-profile-focus",
+      "name": "Profile-focus Dock",
+      "kind": "dock",
+      "version": "1.0.0",
+      "path": "packs/dock-profile-focus/pack.json",
+      "sha256": "203217737e2922bc6e1426aee6e118b20bdec4aa7a691e0e20686d31de2ce580"
+    },
+    {
+      "id": "dock-search-first",
+      "name": "Search-first Dock",
+      "kind": "dock",
+      "version": "1.0.0",
+      "path": "packs/dock-search-first/pack.json",
+      "sha256": "2d9fd4979769183e12f95745c3db21c165654c858ebb72ad0706b90aaa9b090e"
+    },
+    {
+      "id": "icons-ember",
+      "name": "Ember Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-ember/pack.json",
+      "sha256": "fb9cff5c498d8e24e3dd9996cf4aa33a4309f61ca478be4fb5135153748291f8"
+    },
+    {
+      "id": "icons-mono",
+      "name": "Mono Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-mono/pack.json",
+      "sha256": "338c52e613af9edc09bd6b5497b3c8fc96fb3717710b6e987f0b24b8de8d48d8"
+    },
+    {
+      "id": "icons-moss",
+      "name": "Moss Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-moss/pack.json",
+      "sha256": "a2d67ee0dbe4a66f33570985001f8b777619b701a8f2e6a4c745d0bf51740c92"
+    },
+    {
+      "id": "icons-ocean",
+      "name": "Ocean Icon Library",
+      "kind": "icon",
+      "version": "1.0.0",
+      "path": "packs/icons-ocean/pack.json",
+      "sha256": "e9f07f8faab6598b96cce14c033dde749904a366aaba67e2a36305d7cf78bb55"
+    },
+    {
+      "id": "ar-core",
+      "name": "العربية",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/ar-core/pack.json",
+      "sha256": "5d8a4dac2f846ecab54b7093a1412811b63a23ea4bb5ddb2884bb6bdba9c411c"
+    },
+    {
+      "id": "de-core",
+      "name": "Deutsch",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/de-core/pack.json",
+      "sha256": "c323b4a73000c653176f2a37de6a90dd3143c0827bb643479d02e033f5d8bf2b"
+    },
+    {
+      "id": "es-core",
+      "name": "Español",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/es-core/pack.json",
+      "sha256": "d67679ab0cf80257b0fdfb178196f01586abe55ea3a09305e08793a49d204c95"
+    },
+    {
+      "id": "fr-core",
+      "name": "Français",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/fr-core/pack.json",
+      "sha256": "03f661928175d8cbed4006a784a40261aa41fa0d37b3b1b3c89281d93d7ccf39"
+    },
+    {
+      "id": "hi-core",
+      "name": "हिन्दी",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/hi-core/pack.json",
+      "sha256": "c120ddc43c1b815f93789412f6c95adfaac8ed1da51fd9a1c0280b573195a798"
+    },
+    {
+      "id": "it-core",
+      "name": "Italiano",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/it-core/pack.json",
+      "sha256": "122adf17d6a32dd029faf631a6eebf4e1baedeb2c7d1380104e5fe08dd0fff40"
+    },
+    {
+      "id": "pt-core",
+      "name": "Português",
+      "kind": "language",
+      "version": "1.0.0",
+      "path": "packs/pt-core/pack.json",
+      "sha256": "9ac4067288902478b27a1417078e4b1dd9cb1c295519f747f8328e62e8cc241b"
+    },
+    {
+      "id": "layout-film-night",
+      "name": "Film Night",
+      "kind": "layout",
+      "version": "1.0.0",
+      "path": "packs/layout-film-night/pack.json",
+      "sha256": "f2ec75331af7cbd7d0c68c2ac7d23b332c14b1a4bb28a27e45e248ad7533acd8"
+    },
+    {
+      "id": "layout-focus",
+      "name": "Focus Layout",
+      "kind": "layout",
+      "version": "1.0.0",
+      "path": "packs/layout-focus/pack.json",
+      "sha256": "f4cb616a636029a4d3b5bb1172be847bfe8aac8d1b8cd150d3dcd6abf78dc0dc"
+    },
+    {
+      "id": "look-flat-gallery",
+      "name": "Flat Gallery",
+      "kind": "look",
+      "version": "1.0.0",
+      "path": "packs/look-flat-gallery/pack.json",
+      "sha256": "47b3e45d6d3a97d8f9c862834110bf29cc5f6ef1a194cfe462fd4b7e24535592"
+    },
+    {
+      "id": "look-pill",
+      "name": "Pill Dock Look",
+      "kind": "look",
+      "version": "1.0.0",
+      "path": "packs/look-pill/pack.json",
+      "sha256": "553a9b2ead0ee03ace39cc679308e9e4da56ff26721d95a40527a62c71632de8"
+    },
+    {
+      "id": "open-films-archive",
+      "name": "Open Film Archive",
+      "kind": "source",
+      "version": "1.1.0",
+      "path": "packs/open-films-archive/pack.json",
+      "sha256": "280e9ab4b8e88960174a73bb03c8bfcd767d08898470da41c461800df78251f4"
+    },
+    {
+      "id": "open-films-blender",
+      "name": "Cobalt",
+      "kind": "source",
+      "version": "1.1.0",
+      "path": "packs/open-films-blender/pack.json",
+      "sha256": "40ba222db38f6e2b136e1c8f94b96d8cf6b00758a4e194747c8db71c18f5a65c"
+    },
+    {
+      "id": "subtitle-cinema",
+      "name": "Cinema Subtitles",
+      "kind": "subtitle",
+      "version": "1.0.0",
+      "path": "packs/subtitle-cinema/pack.json",
+      "sha256": "81293c28683f18487d36d4caf6c88e7df029d5fb24aaaa649310dccc5c073ed3"
+    },
+    {
+      "id": "subtitle-outlined",
+      "name": "Outlined Captions",
+      "kind": "subtitle",
+      "version": "1.0.0",
+      "path": "packs/subtitle-outlined/pack.json",
+      "sha256": "ad6d2c0bf2a5d50ac96e40a3e313769315ee899ec9a70aeb95765194e8e9929b"
+    },
+    {
+      "id": "carbon-blue",
+      "name": "Carbon Blue",
+      "kind": "theme",
+      "version": "1.1.0",
+      "path": "packs/carbon-blue/pack.json",
+      "sha256": "614c405ebb1fccbf5f2816ade839da6e03f789813425bf535e37f0bca17c1421"
+    },
+    {
+      "id": "cherry-night",
+      "name": "Cherry Night",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/cherry-night/pack.json",
+      "sha256": "22cb154ef4168c071122f30e6f6b976fe495616b9c08df4463ae43eb226ccc3b"
+    },
+    {
+      "id": "graphite-fog",
+      "name": "Graphite Fog",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/graphite-fog/pack.json",
+      "sha256": "7ae66b842d9b38a2206548615edeb8a90b67cdcda36d8ac4460281f4c9d3c902"
+    },
+    {
+      "id": "ink-violet",
+      "name": "Ink Violet",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/ink-violet/pack.json",
+      "sha256": "a21afd58c27cd8b531963e5992dfb9198e395c61425830a23b6ee122473cd351"
+    },
+    {
+      "id": "ivory-studio",
+      "name": "Ivory Studio",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/ivory-studio/pack.json",
+      "sha256": "045951ef31726dcdf175ac3550579daf2e1fc868c408234a246b73aa5ae0d6b6"
+    },
+    {
+      "id": "lime-pulse",
+      "name": "Lime Pulse",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/lime-pulse/pack.json",
+      "sha256": "58bd52e8a9a507fa76e5cfeafa3faa363038bb1b54b5fa72c53953c19e116e14"
+    },
+    {
+      "id": "rose-ink",
+      "name": "Rose Ink",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/rose-ink/pack.json",
+      "sha256": "257d3d10f318aa631cdccbc15a0d974278e609fb39d04e0ca1f730153ea37c04"
+    },
+    {
+      "id": "sand-dawn",
+      "name": "Sand Dawn",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/sand-dawn/pack.json",
+      "sha256": "37a829f5d6ac97fd8c38c4df17bc1c30ad3d8f2158942b0fd55771835a5cdac7"
+    },
+    {
+      "id": "theme-chistmand",
+      "name": "Christmas",
+      "kind": "theme",
+      "version": "1.1.0",
+      "path": "packs/theme-christmas/pack.json",
+      "sha256": "519070b75214a271857ba65c8e7d8b9da4b9924419f7d83057acad85b7baafdc"
+    },
+    {
+      "id": "theme-copper-dusk",
+      "name": "Copper Dusk",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/theme-copper-dusk/pack.json",
+      "sha256": "c42530684242b1378e555c0d971c86b342903fd0056fe4550c7a295f8868e254"
+    },
+    {
+      "id": "theme-signal-blue",
+      "name": "Signal Blue",
+      "kind": "theme",
+      "version": "1.0.0",
+      "path": "packs/theme-signal-blue/pack.json",
+      "sha256": "f47392cb9c7a12beaf2b608c74fa349e9e0ce61dc44629b44aa443cdee5ba7dd"
+    },
+    {
+      "id": "christmas-classics",
+      "name": "Christmas Classics",
+      "kind": "source",
+      "version": "1.0.0",
+      "path": "packs/christmas-classics/pack.json",
+      "sha256": "e90cf3d3ce3e9b860a1377e06f0d814c1e6ba1cf492a4e471bebef848d51382b"
+    },
+    {
+      "id": "blender-animation-shorts",
+      "name": "Spruce",
+      "kind": "source",
+      "version": "1.1.0",
+      "path": "packs/blender-animation-shorts/pack.json",
+      "sha256": "46f75dd3624be93984b0cbde44a71f1a859d8bd8bc1511fa712658e5aeefdf31"
+    },
+    {
+      "id": "silent-film-archive",
+      "name": "Silent Film Archive",
+      "kind": "source",
+      "version": "1.0.0",
+      "path": "packs/silent-film-archive/pack.json",
+      "sha256": "12e0204ddde2a721f873ba3f9b4734c00b7b8e3e2f1c31c33f8c91bdaafa1814"
+    },
+    {
+      "id": "webtorrent-open-films",
+      "name": "Flint",
+      "kind": "source",
+      "version": "1.1.0",
+      "path": "packs/webtorrent-open-films/pack.json",
+      "sha256": "e33ed6a97d6268c019a2eacbfa1c66a34053a16aeac113d58693634b84d1364e"
+    },
+    {
+      "id": "stremio-nuvio-open-cinema",
+      "name": "Opal",
+      "kind": "source",
+      "version": "1.1.0",
+      "path": "packs/stremio-nuvio-open-cinema/pack.json",
+      "sha256": "e2733239d551da0a637608397e33a4760ecd94b499d90ba73c88dbbfaa2619a1"
+    }
+  ],
+  "preview": [
+    {
+      "id": "source-garnet",
+      "name": "Garnet",
+      "kind": "source",
+      "version": "1.0.0",
+      "path": "packs/source-garnet/pack.json",
+      "sha256": "218481778e5a8b4c861ac9a25e40a8cd684b745d296347f274fe4437efc9f418"
+    }
+  ]
+}

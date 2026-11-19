@@ -1,0 +1,43 @@
+{
+  "id": "blender-animation-shorts",
+  "name": "Spruce",
+  "kind": "source",
+  "version": "1.1.0",
+  "summary": "Caminandes, Spring, Glass Half and Elephants Dream. © Blender Foundation, CC BY.",
+  "mediaTypes": [
+    "movie"
+  ],
+  "mediaHosts": [
+    "archive.org"
+  ],
+  "titles": {
+    "movie:406956": [
+      {
+        "url": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4",
+        "quality": "1080p",
+        "audio": "original"
+      }
+    ],
+    "movie:593048": [
+      {
+        "url": "https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4",
+        "quality": "480p",
+        "audio": "original"
+      }
+    ],
+    "movie:420577": [
+      {
+        "url": "https://archive.org/download/Glass_201703/Glass.mp4",
+        "quality": "1080p",
+        "audio": "original"
+      }
+    ],
+    "movie:9761": [
+      {
+        "url": "https://archive.org/download/ElephantsDream_628/ElephantsDream_720p_DivXPlus_512kb.mp4",
+        "quality": "240p",
+        "audio": "English"
+      }
+    ]
+  }
+}

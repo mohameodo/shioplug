@@ -1,0 +1,8 @@
+{
+  "id": "accent-amber",
+  "name": "Amber Accent",
+  "kind": "accent",
+  "version": "1.0.0",
+  "accent": "#fbbf24",
+  "onAccent": "#1f1504"
+}

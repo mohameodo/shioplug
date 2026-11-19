@@ -1,0 +1,42 @@
+{
+  "id": "com.shiopa.open-cinema",
+  "version": "1.1.0",
+  "name": "Opal",
+  "description": "Classic and open films with HTTPS and torrent listings where available.",
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie"
+      ]
+    },
+    {
+      "name": "meta",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "tt"
+      ]
+    },
+    {
+      "name": "stream",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "tt"
+      ]
+    }
+  ],
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "open-cinema",
+      "name": "Opal"
+    }
+  ]
+}
